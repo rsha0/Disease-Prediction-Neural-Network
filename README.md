@@ -74,7 +74,7 @@ As you can see, the possibilities are endless. 😄
 >[@Raymond Shao](https://github.com/rsha0)
 
 ## References: 🔗
-1. Data Science Coach, 'Neural Network for Cancer Prediction using Gene Expression Data | Python for Machine Learning', uploaded on June 8th 2022, retrieved on June 18th 2023 <https://www.youtube.com/watch?v=wtf-ALX6etk>
+1. Data Science Coach, 'Neural Network for Cancer Prediction using Gene Expression Data | Python for Machine Learning', uploaded on June 8th 2022, retrieved on June 18th 2023: <https://www.youtube.com/watch?v=wtf-ALX6etk>
 2. Koleck T.A. et al, 'Natural language processing of symptoms documented in free-text narratives of electronic health records: a systematic review', published online in Journal of the American Medical Informatics Association on April 2019 26(4): 364–379. doi: 10.1093/jamia/ocy173, retrieved June 20th 2023
 3. Mesquita D., 'Python AI: How to Build a Neural Network & Make Predictions', publishing date unknown, retrieved on June 20th 2023: <https://realpython.com/python-ai-neural-network/>
 4. Patil P., 'Disease Symptom Prediction', published in 2020, retrieved on June 20th 2023: <https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset>
