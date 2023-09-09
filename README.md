@@ -74,11 +74,11 @@ As you can see, the possibilities are endless. 😄
 >[@Raymond Shao](https://github.com/rsha0)
 
 ## References: 🔗
-1.For learning how to apply artificial neural networks<https://www.springml.com/videos/music-genre-classification-using-artificial-neural-networks/>
-2.Obtained dataset<https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset>
-3.More on Artificial Neural Networks<https://realpython.com/python-ai-neural-network/>
-4.Neural Network example on Cancer Analysis<https://www.youtube.com/watch?v=wtf-ALX6etk>
-5.Natural Language Processing Webmd scraper<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657282/>
+1. Data Science Coach, 'Neural Network for Cancer Prediction using Gene Expression Data | Python for Machine Learning', uploaded on June 8th 2022, retrieved on June 18th 2023 <https://www.youtube.com/watch?v=wtf-ALX6etk>
+2. Koleck T.A. et al, 'Natural language processing of symptoms documented in free-text narratives of electronic health records: a systematic review', published online in Journal of the American Medical Informatics Association on April 2019 26(4): 364–379. doi: 10.1093/jamia/ocy173, retrieved June 20th 2023
+3. Mesquita D., 'Python AI: How to Build a Neural Network & Make Predictions', publishing date unknown, retrieved on June 20th 2023: <https://realpython.com/python-ai-neural-network/>
+4. Patil P., 'Disease Symptom Prediction', published in 2020, retrieved on June 20th 2023: <https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset>
+5. Velardo V., '13 - Implementing a neural network for music genre classification', uploaded February 13th 2020, retrieved on June 20th 2023: <https://www.youtube.com/watch?v=_xcFAiufwd0>
 
 
 
